@@ -1,2 +1,2 @@
-# ml
-A repository for machine learning demos 
+# ML
+### A repository for machine learning demos 
